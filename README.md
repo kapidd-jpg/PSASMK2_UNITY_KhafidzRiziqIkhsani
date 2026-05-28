@@ -1,13 +1,13 @@
 # PSASMK2_UNITY_KhafidzRiziqIkhsani
 
 Tampilan Menu
-<img width="1920" height="1080" alt="Screenshot (380)" src="https://github.com/user-attachments/assets/a6774246-3115-4dda-bfd9-47bbde87799a" />
+<img width="603" height="339" alt="Screenshot 2026-05-28 224748" src="https://github.com/user-attachments/assets/bbf104ea-0e00-45ea-8041-17336056e4a2" />
 Tampilan Info
 <img width="1920" height="1080" alt="Screenshot (382)" src="https://github.com/user-attachments/assets/49da6bb5-931b-4965-9db5-5e1dec8adc23" />
 Tampilan Settings
 <img width="1920" height="1080" alt="Screenshot (381)" src="https://github.com/user-attachments/assets/fa4aae8a-8302-44f4-a359-42d2f9a228ad" />
 Tampilan Levels
-<img width="1920" height="1080" alt="Screenshot (388)" src="https://github.com/user-attachments/assets/627d9e87-a6d6-4fac-900d-4f739494fb71" />
+<img width="601" height="338" alt="Screenshot 2026-05-28 224736" src="https://github.com/user-attachments/assets/570e6891-faaf-4e34-88e3-f66b9e384e03" />
 Tampilan Level 1
 <img width="1920" height="1080" alt="Screenshot (385)" src="https://github.com/user-attachments/assets/71099771-1554-4a56-a3fc-9d031d6daaef" />
 Tampilan Level 2
